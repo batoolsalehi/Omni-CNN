@@ -1,0 +1,23 @@
+Place the data in this direction, with the following structure:
+  
+  ├── task0
+│   ├── test
+│   │   ├── X.npy
+│   │   └── y.npy
+│   └── train
+│       ├── X.npy
+│       └── y.npy
+├── task1
+│   ├── test
+│   │   ├── X.npy
+│   │   └── y.npy
+│   └── train
+│       ├── X.npy
+│       └── y.npy
+├── task3
+│   ├── test
+│   │   ├── X.npy
+│   │   └── y.npy
+│   └── train
+│       ├── X.npy
+│       └── y.npy
