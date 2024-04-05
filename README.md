@@ -18,4 +18,5 @@ The results in the paper are based on FLASH dataset which is available in our pu
 
 ### Dataset
 Change the path to your local directory in run.sh, and then execute the code as:
+
 ./run.sh test_name GPU_ID
