@@ -16,7 +16,7 @@ To use this repository, please refer to our paper:
 ### Dataset
 The results in the paper are based on FLASH dataset which is available in our public repository [here](https://genesys-lab.org/multimodal-fusion-nextg-v2x-communications).
 
-### Dataset
+### Code
 Change the path to your local directory in run.sh, and then execute the code as:
 
 ./run.sh test_name GPU_ID
